@@ -22,7 +22,17 @@ export default function Home() {
           <Link href='/skills/responsibilites'>
             <a>1. Things a Product Advocate Might Do</a>
           </Link>
+          <Link href='/skills/reflection'>
+            <a>2. Reflection on Past Experience</a>
+          </Link>
+          <Link href='/skills/practice'>
+            <a>4. Practice Email Responses</a>
+          </Link>
+          <Link href='/skills/recommendations'>
+            <a>5. Personal Recommendations</a>
+          </Link>
         </div>
+        
         
       </main>
 
