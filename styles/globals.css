@@ -14,3 +14,35 @@ a {
 * {
   box-sizing: border-box;
 }
+
+li{
+  line-height: 2rem;
+}
+a:hover{
+  color:#3993DD;
+}
+.container{
+  margin:5%;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container a{
+  background-color:#3993DD;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  }
+  .container a:hover{
+    color: white;
+  }
+  .italic{
+    font-style: italic;
+  }
+  .email{
+    border: 1px solid black;
+    border-radius: 9px;
+    padding: 1%;
+    width:70%;
+    margin-bottom: 2%;
+  }

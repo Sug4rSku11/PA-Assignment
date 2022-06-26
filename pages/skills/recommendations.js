@@ -8,9 +8,9 @@ export default function Recommendations(){
             <title>Recommendations</title>
             
         </Head>
+        
+        <body className='container'>
         <Link href='/'>Home</Link>
-        <body>
-
         </body>
         </>
     );
