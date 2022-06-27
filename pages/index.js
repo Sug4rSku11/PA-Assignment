@@ -12,7 +12,11 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <img src={mypic}></img>
+        <Image className="pic"
+                src={mypic}
+                width={200} 
+                height={250}
+                alt="Picture of Desiree Garcia" />
         <h1 className={styles.title}>
           Desiree Garcia - Product Advocate
         </h1>

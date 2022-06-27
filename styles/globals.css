@@ -18,8 +18,11 @@ a {
 li{
   line-height: 2rem;
 }
-a:hover{
+a {
   color:#3993DD;
+}
+a:hover{
+  text-decoration: underline;
 }
 .container{
   margin:5%;
@@ -28,14 +31,14 @@ a:hover{
   justify-content: center;
   align-items: center;
 }
-.container a{
+/* .container a{
   background-color:#3993DD;
   padding: 0.5rem 1rem;
   border-radius: 10px;
   }
   .container a:hover{
     color: white;
-  }
+  } */
   .italic{
     font-style: italic;
   }
@@ -45,4 +48,13 @@ a:hover{
     padding: 1%;
     width:70%;
     margin-bottom: 2%;
+  }
+  .pic{
+    border-radius: 9999px;
+  }
+  .home-btn{
+    background-color: white; 
+    font-size: large;
+    padding: 1% 1.8%;
+    border-radius: 8px;
   }

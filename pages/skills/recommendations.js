@@ -10,7 +10,20 @@ export default function Recommendations(){
         </Head>
         
         <body className='container'>
-        <Link href='/'>Home</Link>
+        <button className='home-btn'><Link href='/'>Home</Link></button>
+        <div>
+            <ol>
+                <li>
+                    Mom and Pop business: 
+                </li>
+                <li>
+                    NFT:
+                </li>
+                <li>
+                    Marketing Page for Nintendo: 
+                </li>
+            </ol>
+        </div>
         </body>
         </>
     );

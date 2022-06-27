@@ -9,7 +9,7 @@ export default function Responsibilites(){
             <title>Responsibilities</title>
         </Head>
         <div className='container'>
-        <Link className='home-btn' href='/'>Home</Link>
+       <button className='home-btn'><Link href='/'>Home</Link></button> 
         <h2>Things a Product Advocate Might Do</h2>
         <div>
         <h4>Things I would be <span className='italic'>most</span> interested in doing:</h4>
