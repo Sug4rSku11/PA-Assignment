@@ -38,18 +38,18 @@ export default function Practice(){
            <p>Dear Melissa Wright,<br></br><br></br>
              We are excited to have you consider Vercel for your website needs! We will 
              be more than happy to assist you with information regarding which plan
-             would better suit your needs.<br></br>
+             would better suit your needs.<br></br><br></br>
              Our Pro plan is $20/month per member and up to 10 members. It comes with 
              unlimited previewers, unlimited domains per project and 3,000 Deployments
              per day. The Bandwidth is 1TB, 1,000 GB-hours of Serverless Function Execution
              and 24,000 minutes Build Execution. It has HTTPS/SSL by default, DDoS Mitigation
-              and email support.<br></br>
-             Our Enterprise plan includes custom team members. It comes with unlimited
+              and email support.<br></br><br></br>
+             Our Enterprise plan includes a custom number of team members. It comes with unlimited
              previewers, unlimited domains per Project, custom Deployments per day, custom
-             Bandwidth, custom Serverless Function Execution, and custom Buil Execution. This
+             Bandwidth, custom Serverless Function Execution, and custom Build Execution. This
              plan also has HTTPS/SSL by default, DDoS Mitigation and also includes Password
              Protected Previews, SAML SSO and 2FA, SSO Protected Previews and Custom Firewall Rules.
-             This plan includs much more support than the Pro version.<br></br>
+             This plan includes much more support than the Pro version.<br></br><br></br>
              I would like to set up a time to speak in person at your earliest conveniece to go
              over plan features and discuss what fits your needs.<br></br><br></br>
              Looking forward to speaking with you.<br></br><br></br>
