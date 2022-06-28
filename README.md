@@ -2,6 +2,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Product Advocate Assignment for Vercel
 
-[Deployed Site:](https://product-advocate.vercel.app/)
+Deployed Site:[https://product-advocate.vercel.app](https://product-advocate.vercel.app/)
 
 Created by Desiree Garcia
