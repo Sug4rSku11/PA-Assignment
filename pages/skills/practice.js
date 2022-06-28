@@ -9,7 +9,7 @@ export default function Practice(){
             
         </Head>
         
-        <body className='container'>
+        <div className='container'>
         <button className='home-btn'><Link href='/'>Home</Link></button>
         <h2>Practice Email Responses</h2>
         <div className='email'>
@@ -56,7 +56,7 @@ export default function Practice(){
              Desiree Garcia<br></br>
              Vercel Product Advocate </p>
         </div>
-        </body>
+        </div>
         </>
     );
 }

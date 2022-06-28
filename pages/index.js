@@ -30,6 +30,10 @@ export default function Home() {
               <a>Reflection on Past Experience</a>
             </Link>
             </li>
+            <li> <Link href='/skills/redirect'>
+              <a>Temporary Redirect</a>
+            </Link>
+            </li>
             <li><Link href='/skills/practice'>
             <a>Practice Email Responses</a>
             </Link>
